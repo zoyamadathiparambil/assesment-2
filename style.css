@@ -1,0 +1,21 @@
+body{
+    background-image: url(./a3be8fa4a75c5495eddcbbe1631037f7.jpg);
+    background-size: cover;
+}
+table, tr, td{
+    margin-left: 450px;
+    margin-top: 250px;
+    border: 2px solid black;
+    font-size: 30px;
+    background-color: burlywood;
+}
+h1{
+    text-align: center;
+    color: firebrick;
+}
+div{
+    border: 5px solid darkblue;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: deepskyblue;
+}
